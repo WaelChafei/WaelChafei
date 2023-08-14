@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently in the last year of software engineeringing student at ISIMS , Tunisia ,Sfax
+- 🌱 I’m currently in the last year of software engineering student at ISIMS , Tunisia ,Sfax
 - 📫 How to reach me: Email:waelchafeii@gmail.com or wael.chafei@aiesec.net or phone:+21629107534
 
 <!---
